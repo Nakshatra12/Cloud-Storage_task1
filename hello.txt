@@ -1,0 +1,6 @@
+Hello from the Cloud! 🌥️
+
+This is a sample file uploaded to Google Cloud Storage.
+
+Uploaded by: Nakshatra Samala
+Date: 20-Oct-2025
